@@ -1,2 +1,2 @@
 # Business-Analytics-Projects
-Projects &amp; assignments in the field of business analytics
+This repository contains projects & assignments in the field of business analytics.
